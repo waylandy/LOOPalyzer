@@ -9,3 +9,4 @@ which was developped by the Hili Lab.
 ======  USAGE  ======
 Input the filename of a merged FASTQ sequencing file
 and let the program do the rest!
+
