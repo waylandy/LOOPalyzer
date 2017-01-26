@@ -68,7 +68,7 @@ def pipeline(raw):
         else:
             return e+s+e+s+e+s+e+s+e+s+e+s+e+s+e
     # input reading region; output codon fidelity
-    # if all codons start with A, returns NOICE
+    # if all codons start with A, returns GOOD
     # if any codon not start with A, returns first mutation occurance
     # should checked in direction of polymerization (ensure this is correct)
     def mistakes(dna):
